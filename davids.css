@@ -4,14 +4,14 @@
 }
 
 body {
-  margin: 0;
+  margin: 5;
   background-color: black;
   
 }
 
 header {
   background-color: black;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 h1{
